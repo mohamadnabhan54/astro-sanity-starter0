@@ -1,0 +1,24 @@
+{
+    "model": "backgroundImage",
+    "srcType": "sanity",
+    "srcProjectId": "3jix51zh:production",
+    "presets": [
+        {
+            "label": "ض",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "2"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "image": {
+                    "$$ref": "image-3e4cbc99f0822f8175a20c3fa725eed3c6ee471e-500x200-gif",
+                    "$$type": "__asset_model"
+                },
+                "opacity": 35
+            }
+        }
+    ]
+}
